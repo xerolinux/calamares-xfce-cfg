@@ -2,7 +2,7 @@
 pkgname=calamares-xfce-cfg
 _destname1="/etc"
 pkgver=23.04
-pkgrel=1
+pkgrel=3
 pkgdesc="calamares 3.3 Config for XeroCE"
 arch=('any')
 url="https://github.com/XeroLinux"
