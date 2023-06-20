@@ -12,13 +12,13 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         XeroLinux
-    shortProductName:    XeroLinux
+    productName:         XeroXFCE
+    shortProductName:    XeroXFCE
     version:             2023.03
-    shortVersion:        2023.03.15
-    versionedName:       XeroLinux
-    shortVersionedName:  XeroLinux
-    bootloaderEntryName: XeroLinux
+    shortVersion:        2023.06.20
+    versionedName:       XeroXFCE
+    shortVersionedName:  XeroXFCE
+    bootloaderEntryName: XeroXFCE
     productUrl:          https://xerolinux.xyz/
     supportUrl:          https://xerolinux.xyz/
     releaseNotesUrl:     https://forum.xerolinux.xyz/thread-4.html
